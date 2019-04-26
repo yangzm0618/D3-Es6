@@ -33,4 +33,4 @@
 2. npm run build 
 3. node api
 4. 打开http://localhost:3000即可
-
+   在线预览地址：https://yangzm0618.github.io/D3-Es6/
